@@ -1,0 +1,18 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YKL216W	25230	26148	Name=Dihydroorotate dehydrogenase [pyrD].	MF	823	0.897
+YKL192C	80171	80393	Name=Acyl carrier protein [acpP].	MF	0	0
+YKL170W	130637	131048	Name=50S ribosomal protein L14 [rplN].	MF	43	0.105
+YKL156W	158679	158859	Name=30S ribosomal protein S27e [rps27e].	MF	27	0.15
+YKL152C	163698	164382	Name=2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [gpmA].	MF	16	0.023
+YKL151C	164919	165897	Name=ADP-dependent (S)-NAD(P)H-hydrate dehydratase [nnrD].	MF	4128	4.221
+YKL114C	223573	224410	Name=Probable endonuclease 4 [nfo].	MF	847	1.012
+YKL113C	224831	225872	Name=Flap endonuclease 1 [fen].	MF	541	0.52
+YKL095W	262280	263108	Name=Splicing factor YJU2 [YJU2].	MF	247	0.298
+YKL067W	314827	315232	Name=Nucleoside diphosphate kinase [ndk].	MF	453	1.119
+YKL025C	390242	392096	Name=PAN2-PAN3 deadenylation complex subunit PAN3 [PAN3].	MF	2295	1.238
+YKL024C	392531	393092	Name=UMP-CMP kinase [CMPK1].	MF	17	0.03
+YKL024C	392537	393089	Name=Adenylate kinase [adk].	MF	16	0.029
+YKL001C	438797	439319	Name=Adenylyl-sulfate kinase [cysC].	MF	798	1.529
+YKR038C	512004	513111	Name=tRNA N6-adenosine threonylcarbamoyltransferase [kae1].	MF	81	0.073
+YKR071C	574936	575968	Name=Fe-S cluster assembly protein <gene_name> [DRE2].	MF	475	0.46
+YKR097W	631230	632796	Name=Phosphoenolpyruvate carboxykinase (ATP) [pckA].	MF	1483	0.947

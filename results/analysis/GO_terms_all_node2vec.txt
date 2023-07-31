@@ -1,0 +1,59 @@
+GO:0002191: cap-dependent translational initiation (biological\_process)
+
+GO:0004364: glutathione transferase activity (molecular\_function)
+
+GO:0004767: sphinGOmyelin phosphodiesterase activity (molecular\_function)
+
+GO:0003405: optic vesicle elongation (biological\_process)
+
+GO:0005619: ascospore wall (cellular\_component)
+
+GO:0001946: lymphangiogenesis (biological\_process)
+
+GO:0002257: negative regulation of kinin cascade (biological\_process)
+
+GO:0007564: regulation of chitin-based cuticle tanning (biological\_process)
+
+GO:0006772: thiamine metabolic process (biological\_process)
+
+GO:0007137: meiotic metaphase II (biological\_process)
+
+GO:0002195: 2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine-tRNA biosynthesis (biological\_process)
+
+GO:0007407: neuroblast activation (biological\_process)
+
+GO:0002674: negative regulation of acute inflammatory response (biological\_process)
+
+GO:0005766: primary lysosome (cellular\_component)
+
+GO:0007610: behavior (biological\_process)
+
+GO:0006781: succinyl-CoA pathway (biological\_process)
+
+GO:0004896: cytokine receptor activity (molecular\_function)
+
+GO:0004532: exoribonuclease activity (molecular\_function)
+
+GO:0006694: steroid biosynthetic process (biological\_process)
+
+GO:0006016: 2-deoxyribose 1-phosphate biosynthetic process (biological\_process)
+
+GO:0005252: open rectifier potassium channel activity (molecular\_function)
+
+GO:0007523: larval visceral muscle development (biological\_process)
+
+GO:0005903: brush border (cellular\_component)
+
+GO:0002192: IRES-dependent translational initiation of linear mRNA (biological\_process)
+
+GO:0004867: serine-type endopeptidase inhibitor activity (molecular\_function)
+
+GO:0005767: secondary lysosome (cellular\_component)
+
+GO:0008033: tRNA processing (biological\_process)
+
+GO:0003306: Wnt signaling pathway involved in heart development (biological\_process)
+
+GO:0006233: dTDP biosynthetic process (biological\_process)
+
+GO:0007406: negative regulation of neuroblast proliferation (biological\_process)

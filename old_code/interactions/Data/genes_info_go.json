@@ -1,0 +1,1349 @@
+{
+    "NRP1": {
+        "molecular function": [
+            "RNA binding",
+            "metal ion binding",
+            "nucleic acid binding",
+            "mRNA binding",
+            "zinc ion binding"
+        ],
+        "biological process": [
+            "biological process"
+        ],
+        "cellular component": [
+            "cytoplasmic stress granule",
+            "cytoplasm",
+            "chromosome",
+            "nucleus"
+        ]
+    },
+    "YDJ1": {
+        "molecular function": [
+            "ATPase activator activity",
+            "unfolded protein binding",
+            "Hsp70 protein binding",
+            "metal ion binding",
+            "heat shock protein binding",
+            "ATP binding",
+            "chaperone binding",
+            "zinc ion binding"
+        ],
+        "biological process": [
+            "'de novo' protein folding",
+            "protein targeting to mitochondrion",
+            "ubiquitin-dependent ERAD pathway",
+            "tRNA import into nucleus",
+            "protein refolding",
+            "protein targeting to ER",
+            "protein transport",
+            "response to heat",
+            "ubiquitin-dependent protein catabolic process",
+            "protein folding"
+        ],
+        "cellular component": [
+            "cytosol",
+            "perinuclear region of cytoplasm",
+            "TRC complex",
+            "nucleus",
+            "cytoplasm"
+        ]
+    },
+    "CLN2": {
+        "molecular function": [
+            "cyclin-dependent protein serine/threonine kinase regulator activity"
+        ],
+        "biological process": [
+            "regulation of cyclin-dependent protein serine/threonine kinase activity",
+            "re-entry into mitotic cell cycle after pheromone arrest",
+            "cell division",
+            "cell cycle",
+            "traversing start control point of mitotic cell cycle",
+            "regulation of G1/S transition of mitotic cell cycle",
+            "mitotic cell cycle phase transition"
+        ],
+        "cellular component": [
+            "cyclin-dependent protein kinase holoenzyme complex",
+            "nucleus",
+            "cytoplasm",
+            "spindle pole body"
+        ]
+    },
+    "WHI5": {
+        "molecular function": [
+            "transcription coregulator activity",
+            "RNA polymerase II-specific DNA-binding transcription factor binding",
+            "transcription corepressor activity"
+        ],
+        "biological process": [
+            "negative regulation of transcription involved in G1/S transition of mitotic cell cycle",
+            "traversing start control point of mitotic cell cycle",
+            "regulation of cell size",
+            "cell cycle",
+            "DNA-templated transcription"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "SBF transcription complex"
+        ]
+    },
+    "SWI4": {
+        "molecular function": [
+            "DNA-binding transcription activator activity, RNA polymerase II-specific",
+            "DNA binding",
+            "sequence-specific DNA binding"
+        ],
+        "biological process": [
+            "positive regulation of transcription from RNA polymerase II promoter in response to heat stress",
+            "positive regulation of transcription involved in G1/S transition of mitotic cell cycle",
+            "regulation of transcription involved in G1/S transition of mitotic cell cycle"
+        ],
+        "cellular component": [
+            "SBF transcription complex",
+            "RNA polymerase II transcription regulator complex",
+            "chromatin",
+            "MBF transcription complex"
+        ]
+    },
+    "SWI6": {
+        "molecular function": [
+            "DNA binding",
+            "transcription coactivator activity"
+        ],
+        "biological process": [
+            "positive regulation of reciprocal meiotic recombination",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of transcription from RNA polymerase II promoter in response to heat stress",
+            "positive regulation of transcription involved in G1/S transition of mitotic cell cycle"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "MBF transcription complex",
+            "SBF transcription complex"
+        ]
+    },
+    "MBP1": {
+        "molecular function": [
+            "sequence-specific DNA binding",
+            "DNA binding",
+            "DNA-binding transcription activator activity, RNA polymerase II-specific"
+        ],
+        "biological process": [
+            "positive regulation of transcription involved in G1/S transition of mitotic cell cycle",
+            "regulation of transcription involved in G1/S transition of mitotic cell cycle",
+            "maintenance of translational fidelity",
+            "positive regulation of transcription by RNA polymerase II"
+        ],
+        "cellular component": [
+            "MBF transcription complex",
+            "RNA polymerase II transcription regulator complex",
+            "nucleus",
+            "SBF transcription complex"
+        ]
+    },
+    "PUB1": {
+        "molecular function": [
+            "mRNA binding",
+            "poly(U) RNA binding",
+            "RNA binding",
+            "nucleic acid binding",
+            "ribosome binding"
+        ],
+        "biological process": [
+            "nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",
+            "stress granule assembly",
+            "regulation of mRNA stability",
+            "translational termination"
+        ],
+        "cellular component": [
+            "P-body",
+            "nucleus",
+            "cytoplasm",
+            "cytoplasmic stress granule"
+        ]
+    },
+    "WHI3": {
+        "molecular function": [
+            "mRNA binding",
+            "RNA binding",
+            "nucleic acid binding"
+        ],
+        "biological process": [
+            "invasive growth in response to glucose limitation",
+            "pseudohyphal growth",
+            "regulation of mRNA catabolic process",
+            "mRNA destabilization",
+            "traversing start control point of mitotic cell cycle",
+            "cell cycle",
+            "regulation of cell size"
+        ],
+        "cellular component": [
+            "cytoplasm",
+            "cytoplasmic stress granule",
+            "endoplasmic reticulum membrane",
+            "P-body"
+        ]
+    },
+    "CDC28": {
+        "molecular function": [
+            "RNA polymerase II complex binding",
+            "protein serine/threonine kinase activity",
+            "cyclin-dependent protein serine/threonine kinase activity",
+            "histone binding",
+            "transferase activity",
+            "nucleotide binding",
+            "ATP binding",
+            "kinase activity",
+            "protein kinase activity",
+            "cyclin binding"
+        ],
+        "biological process": [
+            "meiotic DNA double-strand break processing",
+            "7-methylguanosine mRNA capping",
+            "synaptonemal complex assembly",
+            "regulation of budding cell apical bud growth",
+            "regulation of filamentous growth",
+            "positive regulation of nuclear cell cycle DNA replication",
+            "positive regulation of mitotic spindle pole body separation",
+            "positive regulation of triglyceride catabolic process",
+            "regulation of telomere maintenance via telomerase",
+            "protein localization to nucleus",
+            "positive regulation of glycogen catabolic process",
+            "negative regulation of sister chromatid cohesion",
+            "negative regulation of DNA-templated transcription",
+            "positive regulation of DNA-templated transcription",
+            "negative regulation of mitotic cell cycle",
+            "positive regulation of mitotic cell cycle",
+            "positive regulation of transcription by RNA polymerase II",
+            "positive regulation of meiotic cell cycle",
+            "negative regulation of meiotic cell cycle",
+            "positive regulation of trehalose catabolic process",
+            "protein localization to nuclear periphery",
+            "mitotic sister chromatid biorientation",
+            "negative regulation of double-strand break repair via nonhomologous end joining",
+            "cell cycle",
+            "phosphorylation",
+            "cell division",
+            "DNA double-strand break processing",
+            "double-strand break repair via nonhomologous end joining",
+            "mitotic spindle assembly",
+            "protein localization to spindle microtubule",
+            "regulation of gene expression",
+            "regulation of protein localization to chromatin",
+            "G1/S transition of mitotic cell cycle",
+            "regulation of G2/M transition of mitotic cell cycle",
+            "protein phosphorylation",
+            "signal transduction",
+            "positive regulation of mitotic DNA damage checkpoint",
+            "positive regulation of double-strand break repair via homologous recombination",
+            "protein catabolic process",
+            "negative regulation of transcription by RNA polymerase II",
+            "telomere maintenance",
+            "post-Golgi vesicle-mediated transport",
+            "regulation of protein localization",
+            "regulation of spindle assembly",
+            "negative regulation of DNA replication origin binding",
+            "negative regulation of mitotic actomyosin contractile ring assembly",
+            "response to organic substance"
+        ],
+        "cellular component": [
+            "cyclin-dependent protein kinase holoenzyme complex",
+            "nucleus",
+            "cytoplasm",
+            "endoplasmic reticulum",
+            "cellular bud neck",
+            "cytoplasmic stress granule"
+        ]
+    },
+    "CLA4": {
+        "molecular function": [
+            "protein serine/threonine kinase activity",
+            "kinase activity",
+            "protein kinase activity",
+            "ATP binding",
+            "nucleotide binding",
+            "transferase activity",
+            "enzyme binding"
+        ],
+        "biological process": [
+            "negative regulation of transcription by RNA polymerase II",
+            "vacuole inheritance",
+            "regulation of exit from mitosis",
+            "negative regulation of gene expression",
+            "septin ring organization",
+            "sterol import",
+            "positive regulation of protein import into nucleus",
+            "intracellular signal transduction",
+            "regulation of MAPK cascade",
+            "protein phosphorylation",
+            "phosphorylation",
+            "response to pheromone"
+        ],
+        "cellular component": [
+            "fungal-type vacuole",
+            "nucleus",
+            "cellular bud",
+            "cytoplasm"
+        ]
+    },
+    "RDI1": {
+        "molecular function": [
+            "Rho GDP-dissociation inhibitor activity",
+            "GTPase activator activity"
+        ],
+        "biological process": [
+            "actin filament organization",
+            "regulation of vacuole fusion, non-autophagic",
+            "Rho protein signal transduction"
+        ],
+        "cellular component": [
+            "cytoplasm",
+            "cytosol",
+            "cellular bud tip",
+            "cellular bud neck",
+            "plasma membrane",
+            "membrane"
+        ]
+    },
+    "STE2": {
+        "molecular function": [
+            "mating-type alpha-factor pheromone receptor activity",
+            "G protein-coupled receptor activity",
+            "mating-type factor pheromone receptor activity",
+            "pheromone binding"
+        ],
+        "biological process": [
+            "cytogamy",
+            "cell projection assembly",
+            "signal transduction",
+            "G protein-coupled receptor signaling pathway",
+            "response to pheromone",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion"
+        ],
+        "cellular component": [
+            "membrane",
+            "G protein-coupled receptor homodimeric complex",
+            "plasma membrane"
+        ]
+    },
+    "STE3": {
+        "molecular function": [
+            "mating-type a-factor pheromone receptor activity",
+            "G protein-coupled receptor activity",
+            "mating-type factor pheromone receptor activity"
+        ],
+        "biological process": [
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "cytogamy",
+            "G protein-coupled receptor signaling pathway",
+            "response to pheromone",
+            "signal transduction"
+        ],
+        "cellular component": [
+            "plasma membrane",
+            "membrane",
+            "endoplasmic reticulum"
+        ]
+    },
+    "RHO1": {
+        "molecular function": [
+            "GTPase activity",
+            "nucleotide binding",
+            "GTP binding",
+            "hydrolase activity",
+            "G-protein beta-subunit binding"
+        ],
+        "biological process": [
+            "budding cell bud growth",
+            "small GTPase mediated signal transduction",
+            "regulation of cell size",
+            "actin cytoskeleton organization",
+            "actin cytoskeleton reorganization",
+            "cellular bud neck septin ring organization",
+            "regulation of protein localization",
+            "regulation of vacuole fusion, non-autophagic",
+            "positive regulation of endocytosis",
+            "regulation of exocyst localization",
+            "regulation of fungal-type cell wall organization",
+            "positive regulation of protein kinase C signaling",
+            "regulation of cell wall (1->3)-beta-D-glucan biosynthetic process",
+            "regulation of secondary cell septum biogenesis",
+            "positive regulation of mitotic actomyosin contractile ring assembly"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "1,3-beta-D-glucan synthase complex",
+            "peroxisome",
+            "cellular bud tip",
+            "cellular bud neck",
+            "mating projection tip",
+            "peroxisomal membrane",
+            "endosome",
+            "plasma membrane",
+            "endosome membrane",
+            "membrane",
+            "mitochondrion",
+            "endoplasmic reticulum",
+            "cell periphery",
+            "fungal-type vacuole membrane",
+            "mitochondrial outer membrane",
+            "Golgi apparatus",
+            "cellular bud",
+            "cytoplasm"
+        ]
+    },
+    "SPA2": {
+        "molecular function": [
+            "MAP-kinase scaffold activity"
+        ],
+        "biological process": [
+            "budding cell apical bud growth",
+            "bipolar cellular bud site selection",
+            "pseudohyphal growth",
+            "establishment of cell polarity",
+            "mating projection formation",
+            "regulation of initiation of mating projection growth",
+            "regulation of termination of mating projection growth",
+            "regulation of protein localization",
+            "invasive filamentous growth",
+            "regulation of cell shape",
+            "positive regulation of MAPK cascade",
+            "regulation of actin cytoskeleton organization"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "polarisome",
+            "cellular bud tip",
+            "cellular bud neck",
+            "cell cortex",
+            "mating projection tip",
+            "cellular anatomical entity",
+            "cell tip",
+            "actomyosin contractile ring",
+            "cell cortex of growing cell tip"
+        ]
+    },
+    "BUD6": {
+        "molecular function": [
+            "actin binding",
+            "cytoskeletal regulatory protein binding",
+            "enzyme activator activity"
+        ],
+        "biological process": [
+            "budding cell apical bud growth",
+            "bipolar cellular bud site selection",
+            "pseudohyphal growth",
+            "establishment of cell polarity",
+            "astral microtubule organization",
+            "regulation of protein localization",
+            "actin filament bundle assembly",
+            "positive regulation of formin-nucleated actin cable assembly",
+            "positive regulation of actin nucleation",
+            "regulation of actin cytoskeleton organization"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "polarisome",
+            "spindle pole body",
+            "cellular bud tip",
+            "cellular bud neck",
+            "mating projection tip",
+            "cellular anatomical entity",
+            "cytoplasm",
+            "cell tip",
+            "prospore membrane",
+            "secretory vesicle"
+        ]
+    },
+    "STE5": {
+        "molecular function": [
+            "MAP-kinase scaffold activity",
+            "phosphatidylinositol-4,5-bisphosphate binding",
+            "kinase binding",
+            "G-protein beta-subunit binding"
+        ],
+        "biological process": [
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "invasive growth in response to glucose limitation",
+            "positive regulation of protein phosphorylation",
+            "regulation of transposition, RNA-mediated",
+            "negative regulation of MAPK cascade",
+            "response to pheromone",
+            "positive regulation of MAPK cascade"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "plasma membrane",
+            "mating projection tip",
+            "mating projection tip membrane"
+        ]
+    },
+    "STE4": {
+        "molecular function": [
+            "signaling receptor complex adaptor activity",
+            "small GTPase binding",
+            "protein binding",
+            "protein kinase binding",
+            "G-protein gamma-subunit binding",
+            "scaffold protein binding",
+            "G-protein alpha-subunit binding"
+        ],
+        "biological process": [
+            "G protein-coupled receptor signaling pathway",
+            "invasive growth in response to glucose limitation",
+            "regulation of transposition, RNA-mediated",
+            "chemotropism",
+            "signal transduction",
+            "response to pheromone",
+            "establishment of protein localization to plasma membrane",
+            "protein localization to mating projection tip",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion"
+        ],
+        "cellular component": [
+            "heterotrimeric G-protein complex",
+            "plasma membrane",
+            "mating projection",
+            "cytoplasm",
+            "G-protein beta/gamma-subunit complex",
+            "Cdc24p-Far1p-Gbetagamma complex"
+        ]
+    },
+    "STE18": {
+        "molecular function": [
+            "protein binding",
+            "G-protein beta-subunit binding"
+        ],
+        "biological process": [
+            "G protein-coupled receptor signaling pathway",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "signal transduction",
+            "response to pheromone"
+        ],
+        "cellular component": [
+            "cytoplasm",
+            "heterotrimeric G-protein complex",
+            "plasma membrane",
+            "membrane",
+            "G-protein beta/gamma-subunit complex",
+            "Cdc24p-Far1p-Gbetagamma complex",
+            "cell periphery"
+        ]
+    },
+    "BEM3": {
+        "molecular function": [
+            "GTPase activator activity",
+            "phosphatidylinositol-3-phosphate binding",
+            "phosphatidylinositol binding"
+        ],
+        "biological process": [
+            "establishment of cell polarity",
+            "septin ring organization",
+            "negative regulation of Rho protein signal transduction",
+            "positive regulation of GTPase activity",
+            "regulation of GTPase activity",
+            "signal transduction"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "cytoplasm",
+            "cellular bud tip",
+            "cell cortex",
+            "mating projection tip"
+        ]
+    },
+    "BNI1": {
+        "molecular function": [
+            "actin binding",
+            "profilin binding",
+            "small GTPase binding"
+        ],
+        "biological process": [
+            "cellular component organization",
+            "actin cytoskeleton organization",
+            "establishment of mitotic spindle orientation",
+            "budding cell apical bud growth",
+            "regulation of protein localization",
+            "actin nucleation",
+            "barbed-end actin filament capping",
+            "actin filament bundle assembly",
+            "formin-nucleated actin cable assembly",
+            "mitotic actomyosin contractile ring assembly",
+            "cell division",
+            "regulation of actin cytoskeleton organization"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "polarisome",
+            "actin filament",
+            "cellular bud tip",
+            "cellular bud neck",
+            "cell division site",
+            "mating projection tip",
+            "prospore membrane",
+            "plasma membrane",
+            "cytoplasm",
+            "cytoskeleton",
+            "membrane",
+            "cell projection"
+        ]
+    },
+    "BNR1": {
+        "molecular function": [
+            "profilin binding",
+            "small GTPase binding",
+            "actin binding"
+        ],
+        "biological process": [
+            "actin cytoskeleton organization",
+            "barbed-end actin filament capping",
+            "actin filament bundle assembly",
+            "formin-nucleated actin cable assembly",
+            "mitotic actomyosin contractile ring assembly",
+            "actin nucleation",
+            "regulation of actin cytoskeleton organization"
+        ],
+        "cellular component": [
+            "cellular bud neck",
+            "cell division site",
+            "mating projection tip"
+        ]
+    },
+    "STE20": {
+        "molecular function": [
+            "histone H2BS14 kinase activity",
+            "protein binding",
+            "protein kinase activity",
+            "protein serine/threonine kinase activity",
+            "ATP binding",
+            "mRNA binding",
+            "MAP kinase kinase kinase kinase activity",
+            "transferase activity",
+            "nucleotide binding",
+            "kinase activity",
+            "enzyme binding"
+        ],
+        "biological process": [
+            "negative regulation of transcription by RNA polymerase II",
+            "vacuole inheritance",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "signal transduction involved in filamentous growth",
+            "invasive growth in response to glucose limitation",
+            "regulation of exit from mitosis",
+            "budding cell apical bud growth",
+            "bipolar cellular bud site selection",
+            "pseudohyphal growth",
+            "osmosensory signaling pathway via Sho1 osmosensor",
+            "negative regulation of gene expression",
+            "stress granule assembly",
+            "sterol import",
+            "positive regulation of apoptotic process",
+            "histone modification",
+            "intracellular signal transduction",
+            "regulation of MAPK cascade",
+            "protein phosphorylation",
+            "MAPK cascade",
+            "cell cycle",
+            "phosphorylation",
+            "response to pheromone",
+            "cellular bud site selection"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "nucleus",
+            "cytoplasm",
+            "mating projection tip",
+            "plasma membrane"
+        ]
+    },
+    "STE11": {
+        "molecular function": [
+            "ATP binding",
+            "MAP kinase kinase kinase activity",
+            "SAM domain binding",
+            "protein kinase activity",
+            "nucleotide binding",
+            "protein serine/threonine kinase activity",
+            "kinase activity",
+            "transferase activity"
+        ],
+        "biological process": [
+            "osmosensory signaling MAPK cascade",
+            "pheromone response MAPK cascade",
+            "cell wall integrity MAPK cascade",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "signal transduction involved in filamentous growth",
+            "invasive growth in response to glucose limitation",
+            "pseudohyphal growth",
+            "osmosensory signaling pathway via Sho1 osmosensor",
+            "regulation of transposition, RNA-mediated",
+            "response to pheromone",
+            "phosphorylation",
+            "cellular hyperosmotic response",
+            "protein phosphorylation"
+        ],
+        "cellular component": [
+            "cytoplasm"
+        ]
+    },
+    "STE7": {
+        "molecular function": [
+            "MAP kinase kinase activity",
+            "protein serine/threonine kinase activity",
+            "nucleotide binding",
+            "transferase activity",
+            "kinase activity",
+            "ATP binding",
+            "protein kinase activity"
+        ],
+        "biological process": [
+            "pheromone response MAPK cascade",
+            "cell wall integrity MAPK cascade",
+            "signal transduction involved in filamentous growth",
+            "invasive growth in response to glucose limitation",
+            "pseudohyphal growth",
+            "regulation of transposition, RNA-mediated",
+            "phosphorylation",
+            "response to pheromone",
+            "MAPK cascade",
+            "protein phosphorylation",
+            "peptidyl-tyrosine phosphorylation"
+        ],
+        "cellular component": [
+            "cytoplasm",
+            "mating projection tip"
+        ]
+    },
+    "FUS3": {
+        "molecular function": [
+            "MAP kinase activity",
+            "protein serine/threonine kinase activity",
+            "protein kinase activity",
+            "nucleotide binding",
+            "ATP binding",
+            "kinase activity",
+            "transferase activity"
+        ],
+        "biological process": [
+            "pheromone response MAPK cascade",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "invasive growth in response to glucose limitation",
+            "negative regulation of transposition, RNA-mediated",
+            "negative regulation of MAPK cascade",
+            "positive regulation of protein export from nucleus",
+            "phosphorylation",
+            "cell cycle",
+            "intracellular signal transduction",
+            "protein phosphorylation",
+            "cell division"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "mating projection tip",
+            "mitochondrion",
+            "periplasmic space",
+            "cytoplasmic stress granule"
+        ]
+    },
+    "FAR1": {
+        "molecular function": [
+            "cyclin-dependent protein serine/threonine kinase inhibitor activity",
+            "protein kinase inhibitor activity",
+            "metal ion binding",
+            "zinc ion binding"
+        ],
+        "biological process": [
+            "mitotic cell cycle G1 arrest in response to pheromone",
+            "maintenance of protein location in nucleus",
+            "cell cycle",
+            "cell division",
+            "chemotropism",
+            "negative regulation of cyclin-dependent protein serine/threonine kinase activity"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "mating projection tip",
+            "Cdc24p-Far1p-Gbetagamma complex"
+        ]
+    },
+    "BEM2": {
+        "molecular function": [
+            "GTPase activator activity",
+            "guanyl-nucleotide exchange factor activity",
+            "mRNA binding"
+        ],
+        "biological process": [
+            "negative regulation of Rho protein signal transduction",
+            "signal transduction",
+            "small GTPase mediated signal transduction",
+            "regulation of GTPase activity",
+            "mitotic morphogenesis checkpoint signaling",
+            "actin cytoskeleton organization"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "cytoplasm",
+            "plasma membrane",
+            "cellular bud tip",
+            "cell cortex",
+            "mating projection tip",
+            "prospore membrane",
+            "mitochondrion"
+        ]
+    },
+    "CDC42": {
+        "molecular function": [
+            "GTPase activity",
+            "nucleotide binding",
+            "GTP binding",
+            "protein binding",
+            "hydrolase activity"
+        ],
+        "biological process": [
+            "conjugation with cellular fusion",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "invasive growth in response to glucose limitation",
+            "regulation of exit from mitosis",
+            "budding cell apical bud growth",
+            "budding cell isotropic bud growth",
+            "establishment of cell polarity",
+            "septin ring organization",
+            "regulation of initiation of mating projection growth",
+            "regulation of vacuole fusion, non-autophagic",
+            "positive regulation of exocytosis",
+            "regulation of exocyst localization",
+            "positive regulation of pseudohyphal growth",
+            "establishment or maintenance of cell polarity",
+            "regulation of cellular component organization",
+            "cell division",
+            "cell cycle",
+            "response to pheromone",
+            "nuclear membrane organization",
+            "endocytosis",
+            "Cdc42 protein signal transduction",
+            "Rho protein signal transduction",
+            "actin cytoskeleton organization",
+            "small GTPase mediated signal transduction"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "fungal-type vacuole membrane",
+            "plasma membrane",
+            "cellular bud tip",
+            "cellular bud neck",
+            "septin ring",
+            "nuclear membrane",
+            "mating projection tip",
+            "cytoplasm",
+            "membrane-bounded organelle",
+            "cell periphery",
+            "membrane",
+            "nuclear envelope"
+        ]
+    },
+    "CDC24": {
+        "molecular function": [
+            "guanyl-nucleotide exchange factor activity"
+        ],
+        "biological process": [
+            "cellular bud site selection",
+            "regulation of exit from mitosis",
+            "septin ring organization",
+            "protein localization to cell cortex",
+            "cellular component organization",
+            "establishment of cell polarity",
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "intracellular signal transduction",
+            "chemotropism"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "nucleus",
+            "cytoplasm",
+            "cellular bud tip",
+            "cellular bud neck",
+            "mating projection tip",
+            "division septum",
+            "Cdc24p-Far1p-Gbetagamma complex"
+        ]
+    },
+    "BEM1": {
+        "molecular function": [
+            "protein-macromolecule adaptor activity",
+            "phosphatidylinositol-3-phosphate binding",
+            "phosphatidylinositol binding",
+            "molecular adaptor activity"
+        ],
+        "biological process": [
+            "conjugation with cellular fusion",
+            "cell morphogenesis involved in conjugation with cellular fusion",
+            "positive regulation of vacuole fusion, non-autophagic",
+            "maintenance of protein location"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "cellular bud tip",
+            "cellular bud neck",
+            "site of polarized growth",
+            "mating projection tip",
+            "cytoskeleton",
+            "cytoplasm",
+            "mitochondrion",
+            "cell cortex"
+        ]
+    },
+    "RGA1": {
+        "molecular function": [
+            "GTPase activator activity",
+            "metal ion binding",
+            "zinc ion binding"
+        ],
+        "biological process": [
+            "pheromone-dependent signal transduction involved in conjugation with cellular fusion",
+            "actin filament organization",
+            "establishment of cell polarity",
+            "septin ring organization",
+            "axial cellular bud site selection",
+            "regulation of GTPase activity",
+            "response to pheromone",
+            "signal transduction",
+            "budding cell apical bud growth",
+            "budding cell isotropic bud growth",
+            "positive regulation of pseudohyphal growth",
+            "invasive growth in response to glucose limitation",
+            "positive regulation of GTPase activity"
+        ],
+        "cellular component": [
+            "cellular bud neck split septin rings",
+            "cytoplasm",
+            "cellular bud scar",
+            "cellular birth scar",
+            "cellular bud neck"
+        ]
+    },
+    "RGA2": {
+        "molecular function": [
+            "GTPase activator activity",
+            "metal ion binding",
+            "zinc ion binding"
+        ],
+        "biological process": [
+            "signal transduction",
+            "positive regulation of GTPase activity",
+            "small GTPase mediated signal transduction",
+            "septin ring organization",
+            "regulation of GTPase activity"
+        ],
+        "cellular component": [
+            "cellular bud neck split septin rings",
+            "cytoplasm"
+        ]
+    },
+    "ENT1": {
+        "molecular function": [
+            "phospholipid binding",
+            "clathrin binding",
+            "ubiquitin binding",
+            "lipid binding",
+            "K63-linked polyubiquitin modification-dependent protein binding"
+        ],
+        "biological process": [
+            "endocytosis",
+            "actin filament organization",
+            "actin cortical patch assembly",
+            "localization"
+        ],
+        "cellular component": [
+            "clathrin vesicle coat",
+            "early endosome",
+            "cytoplasm",
+            "cellular bud tip",
+            "cellular bud neck",
+            "mating projection tip",
+            "endosome",
+            "plasma membrane",
+            "membrane"
+        ]
+    },
+    "ENT2": {
+        "molecular function": [
+            "phospholipid binding",
+            "clathrin binding",
+            "lipid binding",
+            "K63-linked polyubiquitin modification-dependent protein binding",
+            "K48-linked polyubiquitin modification-dependent protein binding"
+        ],
+        "biological process": [
+            "endocytosis",
+            "actin filament organization",
+            "actin cortical patch assembly",
+            "localization"
+        ],
+        "cellular component": [
+            "clathrin vesicle coat",
+            "mating projection tip",
+            "endosome",
+            "plasma membrane",
+            "cytoplasm",
+            "membrane"
+        ]
+    },
+    "ARP2": {
+        "molecular function": [
+            "ATP binding",
+            "ATP hydrolysis activity",
+            "nucleotide binding",
+            "actin binding",
+            "actin filament binding"
+        ],
+        "biological process": [
+            "mitochondrion inheritance",
+            "ascospore wall assembly",
+            "cytoplasm to vacuole transport by the Cvt pathway",
+            "Arp2/3 complex-mediated actin nucleation",
+            "establishment of mitochondrion localization",
+            "actin cortical patch organization"
+        ],
+        "cellular component": [
+            "mitochondrion",
+            "Arp2/3 protein complex",
+            "intracellular non-membrane-bounded organelle",
+            "actin cortical patch",
+            "cytoskeleton",
+            "cytoplasm"
+        ]
+    },
+    "ARP3": {
+        "molecular function": [
+            "ATP binding",
+            "nucleotide binding",
+            "actin binding",
+            "actin filament binding"
+        ],
+        "biological process": [
+            "Arp2/3 complex-mediated actin nucleation",
+            "actin cortical patch organization"
+        ],
+        "cellular component": [
+            "Arp2/3 protein complex",
+            "actin cortical patch",
+            "intracellular non-membrane-bounded organelle",
+            "plasma membrane",
+            "cytoplasm",
+            "cytoskeleton"
+        ]
+    },
+    "BUD2": {
+        "molecular function": [
+            "GTPase activator activity"
+        ],
+        "biological process": [
+            "axial cellular bud site selection",
+            "bipolar cellular bud site selection",
+            "establishment or maintenance of cell polarity",
+            "filamentous growth",
+            "mitotic spindle orientation checkpoint signaling",
+            "invasive filamentous growth",
+            "signal transduction",
+            "regulation of GTPase activity"
+        ],
+        "cellular component": [
+            "cellular bud neck",
+            "prospore membrane",
+            "cytoplasm",
+            "incipient cellular bud site"
+        ]
+    },
+    "RSR1": {
+        "molecular function": [
+            "GTPase activity",
+            "GTP binding",
+            "hydrolase activity",
+            "nucleotide binding",
+            "G protein activity",
+            "GDP binding"
+        ],
+        "biological process": [
+            "cytogamy",
+            "cell cycle",
+            "cell division",
+            "axial cellular bud site selection",
+            "bipolar cellular bud site selection",
+            "small GTPase mediated signal transduction",
+            "establishment of protein localization",
+            "positive regulation of Rho guanyl-nucleotide exchange factor activity",
+            "regulation of establishment of cell polarity",
+            "signal transduction",
+            "maintenance of protein location in cell",
+            "positive regulation of Rho protein signal transduction"
+        ],
+        "cellular component": [
+            "plasma membrane",
+            "cellular bud neck",
+            "endoplasmic reticulum",
+            "membrane",
+            "incipient cellular bud site",
+            "vacuolar membrane",
+            "site of polarized growth",
+            "cell division site",
+            "cell periphery"
+        ]
+    },
+    "BUD5": {
+        "molecular function": [
+            "guanyl-nucleotide exchange factor activity"
+        ],
+        "biological process": [
+            "axial cellular bud site selection",
+            "bipolar cellular bud site selection",
+            "small GTPase mediated signal transduction",
+            "positive regulation of GTPase activity",
+            "Ras protein signal transduction"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "cellular bud neck",
+            "cytoplasm",
+            "cell cortex",
+            "plasma membrane"
+        ]
+    },
+    "BUD3": {
+        "molecular function": [
+            "guanyl-nucleotide exchange factor activity"
+        ],
+        "biological process": [
+            "cytogamy",
+            "axial cellular bud site selection",
+            "positive regulation of GTPase activity",
+            "cell cycle"
+        ],
+        "cellular component": [
+            "cellular bud neck contractile ring",
+            "cellular bud neck"
+        ]
+    },
+    "BUD4": {
+        "molecular function": [
+            "GTP binding"
+        ],
+        "biological process": [
+            "axial cellular bud site selection",
+            "septin ring organization",
+            "protein localization to bud neck",
+            "cell cycle",
+            "cell division"
+        ],
+        "cellular component": [
+            "cellular bud neck contractile ring",
+            "cellular bud scar",
+            "cellular bud neck"
+        ]
+    },
+    "AXL2": {
+        "molecular function": [
+            "molecular function",
+            "calcium ion binding"
+        ],
+        "biological process": [
+            "axial cellular bud site selection"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "cellular bud neck septin ring",
+            "cellular bud neck",
+            "cell division site",
+            "cellular anatomical entity",
+            "fungal-type vacuole",
+            "plasma membrane",
+            "membrane"
+        ]
+    },
+    "AXL1": {
+        "molecular function": [
+            "metalloendopeptidase activity",
+            "metal ion binding",
+            "peptidase activity",
+            "metallopeptidase activity",
+            "zinc ion binding",
+            "hydrolase activity"
+        ],
+        "biological process": [
+            "cytogamy",
+            "axial cellular bud site selection",
+            "peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion",
+            "proteolysis",
+            "protein processing"
+        ],
+        "cellular component": [
+            "cellular bud neck",
+            "mating projection tip",
+            "mitochondrial matrix"
+        ]
+    },
+    "RAX2": {
+        "molecular function": [
+            "molecular function"
+        ],
+        "biological process": [
+            "bipolar cellular bud site selection",
+            "axial cellular bud site selection",
+            "cellular bud site selection",
+            "positive regulation of establishment of bipolar cell polarity regulating cell shape",
+            "cell cycle",
+            "protein localization",
+            "cell division"
+        ],
+        "cellular component": [
+            "cellular bud scar",
+            "cellular bud neck",
+            "mitochondrion",
+            "endoplasmic reticulum",
+            "plasma membrane of growing cell tip",
+            "plasma membrane",
+            "cellular bud tip",
+            "membrane"
+        ]
+    },
+    "RAX1": {
+        "molecular function": [
+            "molecular function"
+        ],
+        "biological process": [
+            "bipolar cellular bud site selection",
+            "axial cellular bud site selection",
+            "cell cycle",
+            "cell division",
+            "protein localization"
+        ],
+        "cellular component": [
+            "cellular bud scar",
+            "cellular bud neck",
+            "fungal-type vacuole",
+            "plasma membrane",
+            "membrane",
+            "cellular bud tip"
+        ]
+    },
+    "BUD8": {
+        "molecular function": [
+            "molecular function"
+        ],
+        "biological process": [
+            "cellular bud site selection",
+            "pseudohyphal growth",
+            "cell cycle"
+        ],
+        "cellular component": [
+            "incipient cellular bud site",
+            "plasma membrane",
+            "cellular bud tip",
+            "membrane"
+        ]
+    },
+    "BUD9": {
+        "molecular function": [
+            "molecular function"
+        ],
+        "biological process": [
+            "cellular bud site selection",
+            "cell cycle"
+        ],
+        "cellular component": [
+            "plasma membrane",
+            "cellular bud neck",
+            "membrane"
+        ]
+    },
+    "ACT1": {
+        "molecular function": [
+            "structural constituent of cytoskeleton",
+            "hydrolase activity",
+            "ATP hydrolysis activity",
+            "nucleotide binding",
+            "ATP binding"
+        ],
+        "biological process": [
+            "vacuole inheritance",
+            "DNA repair",
+            "endocytosis",
+            "protein secretion",
+            "histone acetylation",
+            "establishment of cell polarity",
+            "ascospore wall assembly",
+            "cellular response to oxidative stress",
+            "mitotic actomyosin contractile ring contraction"
+        ],
+        "cellular component": [
+            "cellular bud neck contractile ring",
+            "Swr1 complex",
+            "actin filament",
+            "actin cortical patch",
+            "Ino80 complex",
+            "actin filament bundle",
+            "NuA4 histone acetyltransferase complex",
+            "intracellular non-membrane-bounded organelle",
+            "cytoplasm",
+            "cytoskeleton"
+        ]
+    },
+    "CLN3": {
+        "molecular function": [
+            "cyclin-dependent protein serine/threonine kinase regulator activity"
+        ],
+        "biological process": [
+            "regulation of cyclin-dependent protein serine/threonine kinase activity",
+            "regulation of transcription involved in G1/S transition of mitotic cell cycle",
+            "vacuole organization",
+            "vacuole fusion, non-autophagic",
+            "cell division",
+            "cell cycle",
+            "traversing start control point of mitotic cell cycle",
+            "mitotic cell cycle phase transition"
+        ],
+        "cellular component": [
+            "nucleus",
+            "cytoplasm",
+            "cyclin-dependent protein kinase holoenzyme complex",
+            "spindle pole body"
+        ]
+    },
+    "BUD1": {
+        "molecular function": [
+            "GTPase activity",
+            "GTP binding",
+            "hydrolase activity",
+            "nucleotide binding",
+            "G protein activity",
+            "GDP binding"
+        ],
+        "biological process": [
+            "cytogamy",
+            "cell cycle",
+            "cell division",
+            "axial cellular bud site selection",
+            "bipolar cellular bud site selection",
+            "small GTPase mediated signal transduction",
+            "establishment of protein localization",
+            "positive regulation of Rho guanyl-nucleotide exchange factor activity",
+            "regulation of establishment of cell polarity",
+            "signal transduction",
+            "maintenance of protein location in cell",
+            "positive regulation of Rho protein signal transduction"
+        ],
+        "cellular component": [
+            "plasma membrane",
+            "cellular bud neck",
+            "endoplasmic reticulum",
+            "membrane",
+            "incipient cellular bud site",
+            "vacuolar membrane",
+            "site of polarized growth",
+            "cell division site",
+            "cell periphery"
+        ]
+    }
+}

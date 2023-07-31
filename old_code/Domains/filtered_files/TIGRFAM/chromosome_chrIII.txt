@@ -1,0 +1,18 @@
+Gene	start	end	description	database_name
+YCL043C	48655	50122	Name=ER_PDI_fam: protein disulfide isomerase	TIGR01130
+YCL035C	60861	61116	Name=GRX_euk: glutaredoxin	TIGR02180
+YCL033C	62790	63165	Name=TIGR00357: methionine-R-sulfoxide reductase	TIGR00357
+YCL030C	65972	67169	Name=hisD: histidinol dehydrogenase	TIGR00069
+YCL030C	67361	67592	Name=histidine_hisI: phosphoribosyl-ATP diphosphatase	TIGR03188
+YCL025C	76128	77568	Name=2A0310: amino acid permease (yeast)	TIGR00913
+YCL018W	91342	92398	Name=leuB: 3-isopropylmalate dehydrogenase	TIGR00169
+YCL017C	92779	93976	Name=IscS: cysteine desulfurase IscS	TIGR02006
+YCL009C	104702	105320	Name=acolac_sm: acetolactate synthase, small subunit	TIGR00119
+YCR004C	119718	120312	Name=flav_wrbA: NAD(P)H:quinone oxidoreductase, type IV	TIGR01755
+YCR005C	120981	122256	Name=cit_synth_euk: citrate (Si)-synthase, eukaryotic	TIGR01793
+YCR024C	160749	162171	Name=asnS: asparagine--tRNA ligase	TIGR00457
+YCR027C	167447	167948	Name=small_GTP: small GTP-binding protein domain	TIGR00231
+YCR053W	216892	218113	Name=thrC: threonine synthase	TIGR00260
+YCR066W	231503	232748	Name=rad18: DNA repair protein rad18	TIGR00599
+YCR073W-A	247212	247854	Name=pgl: 6-phosphogluconolactonase	TIGR01198
+YCR075C	248071	248806	Name=2A43: lysosomal Cystine Transporter	TIGR00951

@@ -1,0 +1,24 @@
+Gene	start	end	description	database_name
+YNL333W	13270	14161	Name=Pyridoxal 5'-phosphate synthase subunit PdxS [pdxS].	MF
+YNL306W	58332	58806	Name=30S ribosomal protein S11 [rpsK].	MF
+YNL292W	82809	84009	Name=tRNA pseudouridine synthase B [truB].	MF
+YNL284C	103463	103919	Name=50S ribosomal protein L15 [rplO].	MF
+YNL277W	117412	118696	Name=Homoserine O-acetyltransferase [metXA].	MF
+YNL247W	182983	184861	Name=Cysteine--tRNA ligase [cysS].	MF
+YNL241C	196461	197910	Name=Glucose-6-phosphate 1-dehydrogenase [zwf].	MF
+YNL220W	234416	235712	Name=Adenylosuccinate synthetase [purA].	MF
+YNL200C	263784	264429	Name=NAD(P)H-hydrate epimerase [nnrE].	MF
+YNL185C	292195	292651	Name=50S ribosomal protein L11 [rplK].	MF
+YNL169C	316189	317581	Name=Phosphatidylserine decarboxylase proenzyme [PISD].	MF
+YNL141W	359614	360577	Name=Adenine deaminase.	MF
+YNL132W	375327	378420	Name=RNA cytidine acetyltransferase [NAT10].	MF
+YNL119W	401046	402396	Name=Cytoplasmic tRNA 2-thiolation protein 2 [CTU2].	MF
+YNL104C	424966	426646	Name=2-isopropylmalate synthase [leuA].	MF
+YNL081C	476259	476613	Name=30S ribosomal protein S13 [rpsM].	MF
+YNL069C	494587	494986	Name=50S ribosomal protein L13 [rplM].	MF
+YNL064C	505972	507088	Name=Chaperone protein DnaJ [dnaJ].	MF
+YNL024C	587109	587841	Name=Protein-lysine N-methyltransferase <gene_name> [EFM6].	MF
+YNR037C	695054	695303	Name=30S ribosomal protein S19 [rpsS].	MF
+YNR041C	700564	701431	Name=4-hydroxybenzoate octaprenyltransferase [ubiA].	MF
+YNR057C	733439	734036	Name=ATP-dependent dethiobiotin synthetase BioD [bioD].	MF
+YNR058W	734333	735704	Name=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase [bioA].	MF

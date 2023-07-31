@@ -1,0 +1,59 @@
+GO:0042254: ribosome biogenesis (biological\_process)
+
+GO:1905775: negative regulation of DNA helicase activity (biological\_process)
+
+GO:0090154: positive regulation of sphingolipid biosynthetic process (biological\_process)
+
+GO:0071902: positive regulation of protein serine/threonine kinase activity (biological\_process)
+
+GO:1990316: Atg1/ULK1 kinase complex (cellular\_component)
+
+GO:0071944: cell periphery (cellular\_component)
+
+GO:0051539: 4 iron, 4 sulfur cluster binding (molecular\_function)
+
+GO:1990904: ribonucleoprotein complex (cellular\_component)
+
+GO:0016233: telomere capping (biological\_process)
+
+GO:0006270: DNA replication initiation (biological\_process)
+
+GO:0043596: nuclear replication fork (cellular\_component)
+
+GO:0044772: mitotic cell cycle phase transition (biological\_process)
+
+GO:0045005: DNA-dependent DNA replication maintenance of fidelity (biological\_process)
+
+GO:2000222: positive regulation of pseudohyphal growth (biological\_process)
+
+GO:1990758: mitotic sister chromatid biorientation (biological\_process)
+
+GO:0016740: transferase activity (molecular\_function)
+
+GO:2001033: negative regulation of double-strand break repair via nonhomologous end joining (biological\_process)
+
+GO:0070868: heterochromatin organization involved in chromatin silencing (biological\_process)
+
+GO:0060631: regulation of meiosis I (biological\_process)
+
+GO:0071897: DNA biosynthetic process (biological\_process)
+
+GO:1990139: protein localization to nuclear periphery (biological\_process)
+
+GO:2000786: positive regulation of autophagosome assembly (biological\_process)
+
+GO:0061630: ubiquitin protein ligase activity (molecular\_function)
+
+GO:1904750: negative regulation of protein localization to nucleolus (biological\_process)
+
+GO:0043565: sequence-specific DNA binding (molecular\_function)
+
+GO:1903501: positive regulation of mitotic actomyosin contractile ring assembly (biological\_process)
+
+GO:0097602: cullin family protein binding (molecular\_function)
+
+GO:1902975: mitotic DNA replication initiation (biological\_process)
+
+GO:0046872: metal ion binding (molecular\_function)
+
+GO:0051301: cell division (biological\_process)

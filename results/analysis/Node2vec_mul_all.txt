@@ -1,0 +1,59 @@
+GO:0005768: endosome (cellular\_component)
+
+GO:0030335: positive regulation of cell migration (biological\_process)
+
+GO:0031982: vesicle (cellular\_component)
+
+GO:0045121: membrane raft (cellular\_component)
+
+GO:0005085: guanyl-nucleotide exchange factor activity (molecular\_function)
+
+GO:0006366: transcription by RNA polymerase II (biological\_process)
+
+GO:0005938: cell cortex (cellular\_component)
+
+GO:0065003: protein-containing complex assembly (biological\_process)
+
+GO:0007399: nervous system development (biological\_process)
+
+GO:0042981: regulation of apoptotic process (biological\_process)
+
+GO:0043005: neuron projection (cellular\_component)
+
+GO:0006886: intracellular protein transport (biological\_process)
+
+GO:0031410: cytoplasmic vesicle (cellular\_component)
+
+GO:0005102: signaling receptor binding (molecular\_function)
+
+GO:0045087: innate immune response (biological\_process)
+
+GO:0005741: mitochondrial outer membrane (cellular\_component)
+
+GO:0031965: nuclear membrane (cellular\_component)
+
+GO:0061630: ubiquitin protein ligase activity (molecular\_function)
+
+GO:0006954: inflammatory response (biological\_process)
+
+GO:0043065: positive regulation of apoptotic process (biological\_process)
+
+GO:0010629: negative regulation of gene expression (biological\_process)
+
+GO:0000981: DNA-binding transcription factor activity, RNA polymerase II-specific (molecular\_function)
+
+GO:0045892: negative regulation of transcription, DNA-templated (biological\_process)
+
+GO:0051726: regulation of cell cycle (biological\_process)
+
+GO:0005856: cytoskeleton (cellular\_component)
+
+GO:0001934: positive regulation of protein phosphorylation (biological\_process)
+
+GO:0000978: RNA polymerase II proximal promoter sequence-specific DNA binding (molecular\_function)
+
+GO:0005765: lysosomal membrane (cellular\_component)
+
+GO:0003682: chromatin binding (molecular\_function)
+
+GO:0060090: molecular adaptor activity (molecular\_function)

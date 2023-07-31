@@ -1,0 +1,19 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YEL054C	52783	53191	Name=50S ribosomal protein L11 [rplK].	MF	213	0.522
+YEL041W	76265	77210	Name=NAD kinase [nadK].	MF	735	0.778
+YEL038W	80480	81143	Name=Enolase-phosphatase E1 [ENOPH1].	MF	700	1.056
+YEL030W	94722	96555	Name=Chaperone protein DnaK [dnaK].	MF	795	0.434
+YER017C	189577	191770	Name=ATP-dependent zinc metalloprotease FtsH [ftsH].	MF	511	0.233
+YER023W	201085	201919	Name=Pyrroline-5-carboxylate reductase [proC].	MF	22	0.026
+YER042W	234985	235480	Name=Peptide methionine sulfoxide reductase MsrA [msrA].	MF	438	0.885
+YER043C	235796	237110	Name=S-inosyl-L-homocysteine hydrolase [ahcY].	MF	21	0.016
+YER055C	264894	265755	Name=ATP phosphoribosyltransferase [hisG].	MF	2184	2.537
+YER069W	297033	297978	Name=N-acetyl-gamma-glutamyl-phosphate reductase [argC].	MF	36	0.038
+YER074W	306332	306638	Name=30S ribosomal protein S24e [rps24e].	MF	41	0.134
+YER083C	326176	327022	Name=Golgi to ER traffic protein 2 [GET2].	MF	655	0.774
+YER091C	339875	342161	Name=5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [metE].	MF	274	0.12
+YER117W	396817	397180	Name=50S ribosomal protein L14 [rplN].	MF	74	0.204
+YER141W	453708	454815	Name=Heme A synthase [ctaA].	MF	153	0.138
+YER148W	465486	466023	Name=TATA-box-binding protein [tbp].	MF	15	0.028
+YER170W	526007	526649	Name=GTP:AMP phosphotransferase AK3, mitochondrial [AK3].	MF	597	0.93
+YER170W	526019	526646	Name=Adenylate kinase [adk].	MF	560	0.893

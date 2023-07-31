@@ -1,0 +1,4 @@
+Gene	start	end	description	database_name
+YFL059W	11366	12257	Name=Pyridoxal 5'-phosphate synthase subunit PdxS [pdxS].	MF
+YFL016C	104712	106062	Name=Chaperone protein DnaJ [dnaJ].	MF
+YFL001W	147407	148166	Name=tRNA pseudouridine synthase A [truA].	MF

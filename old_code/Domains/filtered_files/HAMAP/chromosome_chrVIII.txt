@@ -1,0 +1,18 @@
+Gene	start	end	description	database_name
+YHL015W	75469	75766	Name=30S ribosomal protein S10 [rpsJ].	MF
+YHL004W	99762	100362	Name=30S ribosomal protein S2 [rpsB].	MF
+YHR018C	140022	141381	Name=Argininosuccinate lyase [argH].	MF
+YHR020W	144560	146060	Name=Proline--tRNA ligase [proS].	MF
+YHR021C	148423	148603	Name=30S ribosomal protein S27e [rps27e].	MF
+YHR025W	159453	160503	Name=Homoserine kinase [thrB].	MF
+YHR031C	170801	172922	Name=ATP-dependent DNA helicase PIF1 [PIF1].	MF
+YHR031C	170804	172868	Name=ATP-dependent DNA helicase RRM3 [RRM3].	MF
+YHR033W	175563	176328	Name=Glutamate 5-kinase [proB].	MF
+YHR042W	190552	192616	Name=NADPH--cytochrome P450 reductase [POR].	MF
+YHR050W	207774	209280	Name=Divalent metal cation transporter MntH [mntH].	MF
+YHR070W	234983	236372	Name=tRNA (guanine(37)-N1)-methyltransferase [TRMT5].	MF
+YHR074W	246208	248254	Name=Glutamine-dependent NAD(+) synthetase [nadE].	MF
+YHR111W	333141	334392	Name=Adenylyltransferase and sulfurtransferase MOCS3 [MOCS3].	MF
+YHR174W	451330	452587	Name=Enolase [eno].	MF
+YHR203C	504816	505509	Name=30S ribosomal protein S4e [rps4e].	MF
+YHR216W	554504	555956	Name=Inosine-5'-monophosphate dehydrogenase [guaB].	MF

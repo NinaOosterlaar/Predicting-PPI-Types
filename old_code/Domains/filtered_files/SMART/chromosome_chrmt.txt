@@ -1,0 +1,4 @@
+Gene	start	end	description	database_name
+Q0050	16101	16278	Name=HNH_5; HNH nuclease	SM00507
+Q0055	16164	16344	Name=HNH_5; HNH nuclease	SM00507
+Q0255	75746	75902	Name=intein_16; Intron encoded nuclease repeat	SM00497

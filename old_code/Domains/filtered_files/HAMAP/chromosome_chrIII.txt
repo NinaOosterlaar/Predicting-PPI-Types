@@ -1,0 +1,8 @@
+Gene	start	end	description	database_name
+YCL054W	31455	33960	Name=AdoMet-dependent rRNA methyltransferase <gene_name> [SPB1].	MF
+YCL054W	31476	32058	Name=Ribosomal RNA large subunit methyltransferase E [rlmE].	MF
+YCL030C	65966	67256	Name=Histidinol dehydrogenase [hisD].	MF
+YCL017C	92806	93982	Name=Cysteine desulfurase IscS [iscS].	MF
+YCR012W	137779	138988	Name=Phosphoglycerate kinase [pgk].	MF
+YCR031C	177818	178202	Name=30S ribosomal protein S11 [rpsK].	MF
+YCR036W	193300	194290	Name=Ribokinase [rbsK].	MF

@@ -1,0 +1,25 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YIL160C	40202	41330	Name=AcCoA-C-Actrans: acetyl-CoA C-acyltransferase	TIGR01930	877	0.777
+YIL145C	76356	77280	Name=panC: pantoate--beta-alanine ligase	TIGR00018	277	0.3
+YIL143C	80536	82690	Name=rad25: DNA repair helicase rad25	TIGR00603	160	0.074
+YIL142W	83314	84865	Name=chap_CCT_beta: T-complex protein 1, beta subunit	TIGR02341	37	0.024
+YIL133C	98969	99395	Name=L13_A_E: ribosomal protein uL13	TIGR01077	335	0.786
+YIL125W	122821	125722	Name=2oxo_dh_E1: oxoglutarate dehydrogenase (succinyl-transferring), E1 component	TIGR00239	1883	0.649
+YIL118W	139800	140205	Name=small_GTP: small GTP-binding protein domain	TIGR00231	17	0.042
+YIL116W	142958	144059	Name=hisC: histidinol-phosphate transaminase	TIGR01141	1236	1.123
+YIL103W	171979	172930	Name=diphth2_R: diphthamide biosynthesis enzyme Dph1/Dph2 domain	TIGR00322	618	0.65
+YIL078W	212949	214665	Name=thrS: threonine--tRNA ligase	TIGR00418	41	0.024
+YIL066C	238470	240273	Name=NrdE_NrdA: ribonucleoside-diphosphate reductase, alpha subunit	TIGR02506	736	0.408
+YIL053W	255418	255706	Name=HAD-SF-IA-v3: HAD hydrolase, family IA, variant 3	TIGR01509	94	0.326
+YIL051C	257854	258211	Name=TIGR00004: reactive intermediate/imine deaminase	TIGR00004	483	1.353
+YIL048W	261947	264878	Name=ATPase-Plipid: phospholipid-translocating P-type ATPase, flippase	TIGR01652	71	0.024
+YIL048W	262103	262394	Name=ATPase_P-type: HAD ATPase, P-type, family IC	TIGR01494	67	0.23
+YIL048W	262610	263021	Name=ATPase_P-type: HAD ATPase, P-type, family IC	TIGR01494	64	0.156
+YIL048W	263996	264329	Name=ATPase_P-type: HAD ATPase, P-type, family IC	TIGR01494	4	0.012
+YIL020C	314046	314814	Name=hisA_euk: phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	TIGR02129	2223	2.895
+YIR008C	373220	374267	Name=primase_sml: putative DNA primase, eukaryotic-type, small subunit	TIGR00335	31	0.03
+YIR022W	398760	399210	Name=sigpep_I_arch: signal peptidase I	TIGR02228	18	0.04
+YIR027C	406277	407540	Name=allantoinase: allantoinase	TIGR03178	2392	1.894
+YIR028W	408768	410124	Name=ncs1: NCS1 nucleoside transporter family	TIGR00800	3001	2.213
+YIR029W	410873	411833	Name=allantoicase: allantoicase	TIGR02961	1882	1.96
+YIR031C	413056	414586	Name=malate_syn_A: malate synthase A	TIGR01344	1705	1.114

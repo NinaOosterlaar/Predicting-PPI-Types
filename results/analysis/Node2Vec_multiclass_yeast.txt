@@ -1,0 +1,59 @@
+GO:0061908: phagophore (cellular\_component)
+
+GO:1990145: maintenance of translational fidelity (biological\_process)
+
+GO:1905263: positive regulation of meiotic DNA double-strand break formation involved in reciprocal meiotic recombination (biological\_process)
+
+GO:0070979: protein K11-linked ubiquitination (biological\_process)
+
+GO:2000060: positive regulation of ubiquitin-dependent protein catabolic process (biological\_process)
+
+GO:1904931: MCM complex binding (molecular\_function)
+
+GO:0006364: rRNA processing (biological\_process)
+
+GO:0042797: tRNA transcription by RNA polymerase III (biological\_process)
+
+GO:2000766: negative regulation of cytoplasmic translation (biological\_process)
+
+GO:0031965: nuclear membrane (cellular\_component)
+
+GO:0031509: telomeric heterochromatin assembly (biological\_process)
+
+GO:0051403: stress-activated MAPK cascade (biological\_process)
+
+GO:0043457: regulation of cellular respiration (biological\_process)
+
+GO:0098789: pre-mRNA cleavage required for polyadenylation (biological\_process)
+
+GO:0061709: reticulophagy (biological\_process)
+
+GO:0035556: intracellular signal transduction (biological\_process)
+
+GO:1902977: mitotic DNA replication preinitiation complex assembly (biological\_process)
+
+GO:1903833: positive regulation of cellular response to amino acid starvation (biological\_process)
+
+GO:0034455: t-UTP complex (cellular\_component)
+
+GO:0044805: late nucleophagy (biological\_process)
+
+GO:1901195: positive regulation of formation of translation preinitiation complex (biological\_process)
+
+GO:0061608: nuclear import signal receptor activity (molecular\_function)
+
+GO:0071013: catalytic step 2 spliceosome (cellular\_component)
+
+GO:0043433: negative regulation of DNA-binding transcription factor activity (biological\_process)
+
+GO:0071902: positive regulation of protein serine/threonine kinase activity (biological\_process)
+
+GO:0030466: chromatin silencing at silent mating-type cassette (biological\_process)
+
+GO:1904262: negative regulation of TORC1 signaling (biological\_process)
+
+GO:0072380: TRC complex (cellular\_component)
+
+GO:0030687: preribosome, large subunit precursor (cellular\_component)
+
+GO:0070180: large ribosomal subunit rRNA binding (molecular\_function)

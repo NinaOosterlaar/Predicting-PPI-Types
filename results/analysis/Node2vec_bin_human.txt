@@ -1,0 +1,59 @@
+GO:0016887: ATPase activity (molecular\_function)
+
+GO:0061629: RNA polymerase II sequence-specific DNA-binding transcription factor binding (molecular\_function)
+
+GO:0045766: positive regulation of angiogenesis (biological\_process)
+
+GO:0031965: nuclear membrane (cellular\_component)
+
+GO:0006606: protein import into nucleus (biological\_process)
+
+GO:0043005: neuron projection (cellular\_component)
+
+GO:0005085: guanyl-nucleotide exchange factor activity (molecular\_function)
+
+GO:0018105: peptidyl-serine phosphorylation (biological\_process)
+
+GO:0007166: cell surface receptor signaling pathway (biological\_process)
+
+GO:0046777: protein autophosphorylation (biological\_process)
+
+GO:0005938: cell cortex (cellular\_component)
+
+GO:0065003: protein-containing complex assembly (biological\_process)
+
+GO:0001525: angiogenesis (biological\_process)
+
+GO:0009986: cell surface (cellular\_component)
+
+GO:0001701: in utero embryonic development (biological\_process)
+
+GO:0042127: regulation of cell proliferation (biological\_process)
+
+GO:0042981: regulation of apoptotic process (biological\_process)
+
+GO:0008283: cell proliferation (biological\_process)
+
+GO:0009410: response to xenobiotic stimulus (biological\_process)
+
+GO:0030335: positive regulation of cell migration (biological\_process)
+
+GO:0030425: dendrite (cellular\_component)
+
+GO:0005509: calcium ion binding (molecular\_function)
+
+GO:0007507: heart development (biological\_process)
+
+GO:0007420: brain development (biological\_process)
+
+GO:0000139: Golgi membrane (cellular\_component)
+
+GO:0043025: neuronal cell body (cellular\_component)
+
+GO:0006366: transcription by RNA polymerase II (biological\_process)
+
+GO:0001228: DNA-binding transcription activator activity, RNA polymerase II-specific (molecular\_function)
+
+GO:0045892: negative regulation of transcription, DNA-templated (biological\_process)
+
+GO:0003924: GTPase activity (molecular\_function)

@@ -1,0 +1,8 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YCL054W	31455	33960	Name=AdoMet-dependent rRNA methyltransferase <gene_name> [SPB1].	MF	316	0.126
+YCL054W	31476	32058	Name=Ribosomal RNA large subunit methyltransferase E [rlmE].	MF	314	0.54
+YCL030C	65966	67256	Name=Histidinol dehydrogenase [hisD].	MF	2328	1.805
+YCL017C	92806	93982	Name=Cysteine desulfurase IscS [iscS].	MF	35	0.03
+YCR012W	137779	138988	Name=Phosphoglycerate kinase [pgk].	MF	59	0.049
+YCR031C	177818	178202	Name=30S ribosomal protein S11 [rpsK].	MF	155	0.404
+YCR036W	193300	194290	Name=Ribokinase [rbsK].	MF	1244	1.257

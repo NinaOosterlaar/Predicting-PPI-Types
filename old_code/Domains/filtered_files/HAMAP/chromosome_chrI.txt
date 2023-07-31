@@ -1,0 +1,5 @@
+Gene	start	end	description	database_name
+YAL044C	57961	58336	Name=Glycine cleavage system H protein [gcvH].	MF
+YAL015C	127094	127826	Name=Endonuclease III-like protein 1 [NTHL1].	MF
+YAL010C	134186	135662	Name=Mitochondrial distribution and morphology protein 10 [MDM10].	MF
+YAR015W	169411	170278	Name=Phosphoribosylaminoimidazole-succinocarboxamide synthase [purC].	MF

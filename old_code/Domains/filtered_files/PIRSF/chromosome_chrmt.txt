@@ -1,0 +1,2 @@
+Gene	start	end	description	database_name
+Q0105	36546	37695	Name=COB; Cytochrome b	PIRSF038885

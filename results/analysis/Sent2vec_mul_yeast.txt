@@ -1,0 +1,59 @@
+GO:0070868: heterochromatin organization involved in chromatin silencing (biological\_process)
+
+GO:0070181: small ribosomal subunit rRNA binding (molecular\_function)
+
+GO:1990758: mitotic sister chromatid biorientation (biological\_process)
+
+GO:2000786: positive regulation of autophagosome assembly (biological\_process)
+
+GO:0042273: ribosomal large subunit biogenesis (biological\_process)
+
+GO:0032040: small-subunit processome (cellular\_component)
+
+GO:0043596: nuclear replication fork (cellular\_component)
+
+GO:2001033: negative regulation of double-strand break repair via nonhomologous end joining (biological\_process)
+
+GO:0030687: preribosome, large subunit precursor (cellular\_component)
+
+GO:0016787: hydrolase activity (molecular\_function)
+
+GO:0006412: translation (biological\_process)
+
+GO:0045944: positive regulation of transcription by RNA polymerase II (biological\_process)
+
+GO:1904750: negative regulation of protein localization to nucleolus (biological\_process)
+
+GO:1903501: positive regulation of mitotic actomyosin contractile ring assembly (biological\_process)
+
+GO:0032543: mitochondrial translation (biological\_process)
+
+GO:0030686: 90S preribosome (cellular\_component)
+
+GO:0061630: ubiquitin protein ligase activity (molecular\_function)
+
+GO:0046982: protein heterodimerization activity (molecular\_function)
+
+GO:0097602: cullin family protein binding (molecular\_function)
+
+GO:0051321: meiotic cell cycle (biological\_process)
+
+GO:1902975: mitotic DNA replication initiation (biological\_process)
+
+GO:1990139: protein localization to nuclear periphery (biological\_process)
+
+GO:0016740: transferase activity (molecular\_function)
+
+GO:0022625: cytosolic large ribosomal subunit (cellular\_component)
+
+GO:0022627: cytosolic small ribosomal subunit (cellular\_component)
+
+GO:0071944: cell periphery (cellular\_component)
+
+GO:0042254: ribosome biogenesis (biological\_process)
+
+GO:0051301: cell division (biological\_process)
+
+GO:1990904: ribonucleoprotein complex (cellular\_component)
+
+GO:0046872: metal ion binding (molecular\_function)

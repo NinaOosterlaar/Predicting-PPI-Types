@@ -1,0 +1,2 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+Q0105	36546	37695	Name=COB; Cytochrome b	PIRSF038885	14	0.012

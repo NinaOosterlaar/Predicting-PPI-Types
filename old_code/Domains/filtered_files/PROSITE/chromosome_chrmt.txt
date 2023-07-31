@@ -1,0 +1,21 @@
+Gene	start	end	description	database_name
+Q0045	13821	15420	Name=Cytochrome oxidase subunit I  profile.; Cytochrome c oxidase-like, subunit I domain	PS50855
+Q0055	13821	14181	Name=Cytochrome oxidase subunit I  profile.; Cytochrome c oxidase-like, subunit I domain	PS50855
+Q0060	13821	14061	Name=Cytochrome oxidase subunit I  profile.; Cytochrome c oxidase-like, subunit I domain	PS50855
+Q0065	13821	14574	Name=Cytochrome oxidase subunit I  profile.; Cytochrome c oxidase-like, subunit I domain	PS50855
+Q0070	13821	14796	Name=Cytochrome oxidase subunit I  profile.; Cytochrome c oxidase-like, subunit I domain	PS50855
+Q0045	14529	14691	Name=Heme-copper oxidase catalytic subunit, copper B binding region signature.; Cytochrome c oxidase, subunit I, copper-binding site	PS00077
+Q0070	14529	14691	Name=Heme-copper oxidase catalytic subunit, copper B binding region signature.; Cytochrome c oxidase, subunit I, copper-binding site	PS00077
+Q0050	14706	15549	Name=Reverse transcriptase (RT) catalytic domain profile.	PS50878
+Q0055	14805	15657	Name=Reverse transcriptase (RT) catalytic domain profile.	PS50878
+Q0085	29033	29060	Name=ATP synthase a subunit signature.; ATP synthase, F0 complex, subunit A, active site	PS00449
+Q0105	36543	37170	Name=Cytochrome b/b6 N-terminal region profile.; Cytochrome b/b6, N-terminal	PS51002
+Q0110	36543	37185	Name=Cytochrome b/b6 N-terminal region profile.; Cytochrome b/b6, N-terminal	PS51002
+Q0115	36543	37197	Name=Cytochrome b/b6 N-terminal region profile.; Cytochrome b/b6, N-terminal	PS51002
+Q0120	36543	37170	Name=Cytochrome b/b6 N-terminal region profile.; Cytochrome b/b6, N-terminal	PS51002
+Q0105	37173	37683	Name=Cytochrome b/b6 C-terminal region profile.; Cytochrome b/b6, C-terminal	PS51003
+Q0130	46837	46900	Name=ATP synthase c subunit signature.; ATP synthase, F0 complex, subunit C, DCCD-binding site	PS00605
+Q0250	73809	74091	Name=Cytochrome oxidase subunit II transmembrane region profile.; Cytochrome C oxidase subunit II, transmembrane domain	PS50999
+Q0250	74094	74508	Name=Cytochrome oxidase subunit II copper A binding domain profile.; Cytochrome c oxidase subunit II-like C-terminal	PS50857
+Q0250	74310	74454	Name=CO II and nitrous oxide reductase dinuclear copper centers signature.; Copper centre Cu(A)	PS00078
+Q0275	79243	80020	Name=Heme-copper oxidase subunit III family profile.; Cytochrome c oxidase subunit III-like	PS50253

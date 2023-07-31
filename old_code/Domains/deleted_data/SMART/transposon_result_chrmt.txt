@@ -1,0 +1,4 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+Q0050	16101	16278	Name=HNH_5; HNH nuclease	SM00507	62	0.35
+Q0055	16164	16344	Name=HNH_5; HNH nuclease	SM00507	55	0.306
+Q0255	75746	75902	Name=intein_16; Intron encoded nuclease repeat	SM00497	1	0.006

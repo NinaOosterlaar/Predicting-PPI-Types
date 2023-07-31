@@ -1,0 +1,24 @@
+Gene	start	end	description	database_name
+YPL281C	9610	10867	Name=Enolase [eno].	MF
+YPL262W	47420	48797	Name=Fumarate hydratase class II [fumC].	MF
+YPL240C	96606	98622	Name=Chaperone protein HtpG [htpG].	MF
+YPL231W	113953	114310	Name=Holo-[acyl-carrier-protein] synthase [acpS].	MF
+YPL222W	130231	132193	Name=Protein adenylyltransferase SelO [selO].; Protein adenylyltransferase SelO	MF
+YPL214C	149501	150161	Name=Thiamine-phosphate synthase [thiE].	MF
+YPL188W	191610	192543	Name=NAD kinase [nadK].	MF
+YPL183W-A	199263	199374	Name=50S ribosomal protein L36 [rpmJ].	MF
+YPL143W	282149	282425	Name=50S ribosomal protein L35Ae [rpl35ae].	MF
+YPL132W	301899	302496	Name=Cytochrome c oxidase assembly protein CtaG [ctaG].	MF
+YPL131W	303163	303862	Name=50S ribosomal protein L18 [rplR].; Ribosomal protein L5 eukaryotic/L18 archaeal	MF
+YPL104W	355709	357662	Name=Aspartate--tRNA(Asp/Asn) ligase [aspS].	MF
+YPL047W	465983	466256	Name=Ataxin-7-like protein 3 [ATXN7L3].	MF
+YPL013C	529071	529335	Name=30S ribosomal protein S16 [rpsP].	MF
+YPR016C	592334	593066	Name=Translation initiation factor 6 [eif6].	MF
+YPR024W	610496	612674	Name=ATP-dependent zinc metalloprotease FtsH [ftsH].	MF
+YPR043W	654178	654382	Name=50S ribosomal protein L37Ae [rpl37ae].	MF
+YPR048W	659197	661051	Name=NADPH-dependent diflavin oxidoreductase 1 [TAH18].	MF
+YPR069C	684558	685398	Name=Polyamine aminopropyltransferase [speE].	MF
+YPR080W	700600	701920	Name=Elongation factor Tu [tuf].	MF
+YPR088C	711450	713010	Name=Signal recognition particle 54 kDa protein [srp54].	MF
+YPR118W	767776	768976	Name=Putative methylthioribose-1-phosphate isomerase [mtnA].	MF
+YPR187W	911506	911671	Name=DNA-directed RNA polymerase subunit K [rpoK].	MF

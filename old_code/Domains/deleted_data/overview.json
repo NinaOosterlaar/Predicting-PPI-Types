@@ -1,0 +1,42 @@
+{
+    "1-2": {
+        "unknown": 600,
+        "non-essential": 263,
+        "essential": 4
+    },
+    "0-0.5": {
+        "unknown": 2827,
+        "non-essential": 1132,
+        "essential": 707
+    },
+    "0.5-1": {
+        "unknown": 1056,
+        "non-essential": 421,
+        "essential": 7
+    },
+    "2-3": {
+        "non-essential": 84,
+        "unknown": 158
+    },
+    "3-4": {
+        "non-essential": 31,
+        "unknown": 60
+    },
+    ">10": {
+        "non-essential": 12,
+        "unknown": 12
+    },
+    "0": {
+        "non-essential": 52,
+        "unknown": 169,
+        "essential": 114
+    },
+    "5-10": {
+        "non-essential": 14,
+        "unknown": 37
+    },
+    "4-5": {
+        "non-essential": 13,
+        "unknown": 24
+    }
+}

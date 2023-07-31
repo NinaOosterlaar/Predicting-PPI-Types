@@ -1,0 +1,22 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YJL191W	73808	74192	Name=30S ribosomal protein S11 [rpsK].	MF	316	0.823
+YJL190C	74912	75296	Name=30S ribosomal protein S8 [rpsH].	MF	220	0.573
+YJL189W	75936	76086	Name=50S ribosomal protein L39e [rpl39e].	MF	15	0.1
+YJL130C	165731	166637	Name=Aspartate carbamoyltransferase [pyrB].	MF	1244	1.373
+YJL130C	171134	172307	Name=Carbamoyl-phosphate synthase small chain [carA].	MF	277	0.236
+YJL121C	190412	191081	Name=Ribulose-phosphate 3-epimerase [rpe].	MF	297	0.444
+YJL102W	231364	233755	Name=Ribosome-releasing factor 2, mitochondrial [GFM2].	MF	311	0.13
+YJR008W	452436	453438	Name=MEMO1 family protein <locus_tag>.	MF	2063	2.059
+YJR010W	456242	457766	Name=Sulfate adenylyltransferase [MET3].	MF	2024	1.328
+YJR016C	464456	466133	Name=Dihydroxy-acid dehydratase [ilvD].	MF	841	0.501
+YJR024C	470283	470949	Name=Methylthioribulose-1-phosphate dehydratase [APIP].	MF	592	0.889
+YJR025C	471152	471662	Name=3-hydroxyanthranilate 3,4-dioxygenase [nbaC].	MF	852	1.671
+YJR045C	519646	521515	Name=Chaperone protein DnaK [dnaK].	MF	41	0.022
+YJR049C	527147	528092	Name=NAD kinase [nadK].	MF	195	0.206
+YJR057W	544080	544674	Name=Thymidylate kinase [tmk].	MF	15	0.025
+YJR069C	568817	569387	Name=Inosine triphosphate pyrophosphatase [ITPA].	MF	656	1.151
+YJR070C	569641	570544	Name=Deoxyhypusine hydroxylase [DOHH].	MF	289	0.32
+YJR073C	572341	572878	Name=Phosphatidyl-N-methylethanolamine N-methyltransferase [PEMT].	MF	358	0.667
+YJR094W-A	608317	608521	Name=50S ribosomal protein L37Ae [rpl37ae].	MF	150	0.735
+YJR121W	647730	649125	Name=ATP synthase subunit beta [atpB].	MF	87	0.062
+YJR145C	702354	703047	Name=30S ribosomal protein S4e [rps4e].	MF	111	0.16

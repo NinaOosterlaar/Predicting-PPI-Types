@@ -1,0 +1,12 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YAL054C	42895	44803	Name=Ac_CoA_lig_AcsA: acetate--CoA ligase	TIGR02188	4287	2.247
+YAL044C	57952	58342	Name=gcvH: glycine cleavage system H protein	TIGR00527	1010	2.59
+YAL038W	71843	73286	Name=pyruv_kin: pyruvate kinase	TIGR01064	19	0.013
+YAL036C	75552	75951	Name=small_GTP: small GTP-binding protein domain	TIGR00231	705	1.767
+YAL035W	77651	78029	Name=small_GTP: small GTP-binding protein domain	TIGR00231	3	0.008
+YAL026C	95977	99103	Name=ATPase-Plipid: phospholipid-translocating P-type ATPase, flippase	TIGR01652	1118	0.358
+YAL026C	96592	96961	Name=ATPase_P-type: HAD ATPase, P-type, family IC	TIGR01494	675	1.829
+YAL022C	108891	110187	Name=2a57: nucleoside Transporter	TIGR00939	1612	1.244
+YAR007C	156768	158607	Name=rpa1: replication factor-a protein 1 (rpa1)	TIGR00617	212	0.115
+YAR008W	159248	159782	Name=endA: tRNA-intron lyase	TIGR00324	26	0.049
+YAR015W	169378	170293	Name=purC: phosphoribosylaminoimidazolesuccinocarboxamide synthase	TIGR00081	23	0.025

@@ -1,0 +1,24 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YPL281C	9610	10867	Name=Enolase [eno].	MF	1126	0.896
+YPL262W	47420	48797	Name=Fumarate hydratase class II [fumC].	MF	225	0.163
+YPL240C	96606	98622	Name=Chaperone protein HtpG [htpG].	MF	2680	1.329
+YPL231W	113953	114310	Name=Holo-[acyl-carrier-protein] synthase [acpS].	MF	6	0.017
+YPL222W	130231	132193	Name=Protein adenylyltransferase SelO [selO].; Protein adenylyltransferase SelO	MF	1899	0.968
+YPL214C	149501	150161	Name=Thiamine-phosphate synthase [thiE].	MF	639	0.968
+YPL188W	191610	192543	Name=NAD kinase [nadK].	MF	11	0.012
+YPL183W-A	199263	199374	Name=50S ribosomal protein L36 [rpmJ].	MF	34	0.306
+YPL143W	282149	282425	Name=50S ribosomal protein L35Ae [rpl35ae].	MF	0	0
+YPL132W	301899	302496	Name=Cytochrome c oxidase assembly protein CtaG [ctaG].	MF	58	0.097
+YPL131W	303163	303862	Name=50S ribosomal protein L18 [rplR].; Ribosomal protein L5 eukaryotic/L18 archaeal	MF	8	0.011
+YPL104W	355709	357662	Name=Aspartate--tRNA(Asp/Asn) ligase [aspS].	MF	141	0.072
+YPL047W	465983	466256	Name=Ataxin-7-like protein 3 [ATXN7L3].	MF	286	1.048
+YPL013C	529071	529335	Name=30S ribosomal protein S16 [rpsP].	MF	34	0.129
+YPR016C	592334	593066	Name=Translation initiation factor 6 [eif6].	MF	87	0.119
+YPR024W	610496	612674	Name=ATP-dependent zinc metalloprotease FtsH [ftsH].	MF	1552	0.713
+YPR043W	654178	654382	Name=50S ribosomal protein L37Ae [rpl37ae].	MF	76	0.373
+YPR048W	659197	661051	Name=NADPH-dependent diflavin oxidoreductase 1 [TAH18].	MF	35	0.019
+YPR069C	684558	685398	Name=Polyamine aminopropyltransferase [speE].	MF	363	0.432
+YPR080W	700600	701920	Name=Elongation factor Tu [tuf].	MF	765	0.58
+YPR088C	711450	713010	Name=Signal recognition particle 54 kDa protein [srp54].	MF	354	0.227
+YPR118W	767776	768976	Name=Putative methylthioribose-1-phosphate isomerase [mtnA].	MF	581	0.484
+YPR187W	911506	911671	Name=DNA-directed RNA polymerase subunit K [rpoK].	MF	7	0.042

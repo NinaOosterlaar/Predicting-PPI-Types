@@ -1,0 +1,11 @@
+Gene	start	end	description	database_name
+YIL145C	76356	77277	Name=Pantothenate synthetase [panC].	MF
+YIL133C	98999	99398	Name=50S ribosomal protein L13 [rplM].	MF
+YIL116W	142952	144065	Name=Histidinol-phosphate aminotransferase [hisC].	MF
+YIL078W	212931	214665	Name=Threonine--tRNA ligase [thrS].	MF
+YIL069C	232054	232360	Name=30S ribosomal protein S24e [rps24e].	MF
+YIL064W	242039	242711	Name=EEF1A lysine methyltransferase 2 [EEF1AKMT2].	MF
+YIL008W	342542	342833	Name=Ubiquitin-related modifier 1 [URM1].	MF
+YIL003W	349155	349938	Name=Iron-sulfur cluster carrier protein.	MF
+YIL003W	349158	349923	Name=Cytosolic Fe-S cluster assembly factor NUBP2 [NUBP2].	MF
+YIR029W	410867	411836	Name=Probable allantoicase [alc].	MF

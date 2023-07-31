@@ -1,0 +1,16 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YFL061W	9551	10214	Name=cyanamide_fam: HD domain protein, cyanamide hydratase family	TIGR03401	727	1.097
+YFL060C	10333	10954	Name=PLP_synth_Pdx2: pyridoxal 5'-phosphate synthase, glutaminase subunit Pdx2	TIGR03800	1212	1.952
+YFL059W	11381	12257	Name=TIGR00343: pyridoxal 5'-phosphate synthase, synthase subunit Pdx1	TIGR00343	1091	1.245
+YFL054C	21032	21731	Name=MIP: MIP family channel proteins	TIGR00861	876	1.253
+YFL053W	23435	25178	Name=dak_ATP: dihydroxyacetone kinase	TIGR02361	1272	0.73
+YFL045C	43699	44347	Name=HAD-SF-IIB: HAD hydrolase, family IIB	TIGR01484	5	0.008
+YFL038C	55494	55965	Name=small_GTP: small GTP-binding protein domain	TIGR00231	19	0.04
+YFL022C	93534	94545	Name=pheS: phenylalanine--tRNA ligase, alpha subunit	TIGR00468	28	0.028
+YFL018C	101633	103046	Name=lipoamide_DH: dihydrolipoyl dehydrogenase	TIGR01350	351	0.248
+YFL011W	112369	113869	Name=SP: MFS transporter, sugar porter (SP) family	TIGR00879	1376	0.917
+YFL005W	130391	130853	Name=small_GTP: small GTP-binding protein domain	TIGR00231	11	0.024
+YFL001W	147407	148145	Name=hisT_truA: tRNA pseudouridine(38-40) synthase	TIGR00071	254	0.344
+YFR025C	203874	204744	Name=hisJ_fam: histidinol phosphate phosphatase, HisJ family	TIGR01856	2057	2.364
+YFR047C	244290	245112	Name=nadC: nicotinate-nucleotide diphosphorylase (carboxylating)	TIGR00078	749	0.911
+YFR055W	264246	265224	Name=cysta_beta_ly_B: cystathionine beta-lyase	TIGR01324	693	0.709

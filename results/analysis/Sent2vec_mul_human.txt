@@ -1,0 +1,59 @@
+GO:0042803: protein homodimerization activity (molecular\_function)
+
+GO:0008270: zinc ion binding (molecular\_function)
+
+GO:0019901: protein kinase binding (molecular\_function)
+
+GO:0045202: synapse (cellular\_component)
+
+GO:0006468: protein phosphorylation (biological\_process)
+
+GO:0005813: centrosome (cellular\_component)
+
+GO:0003677: DNA binding (molecular\_function)
+
+GO:0032991: protein-containing complex (cellular\_component)
+
+GO:0045944: positive regulation of transcription by RNA polymerase II (biological\_process)
+
+GO:0048471: perinuclear region of cytoplasm (cellular\_component)
+
+GO:0005730: nucleolus (cellular\_component)
+
+GO:0043231: intracellular membrane-bounded organelle (cellular\_component)
+
+GO:0005783: endoplasmic reticulum (cellular\_component)
+
+GO:0005789: endoplasmic reticulum membrane (cellular\_component)
+
+GO:0005615: extracellular space (cellular\_component)
+
+GO:0007165: signal transduction (biological\_process)
+
+GO:0005794: Golgi apparatus (cellular\_component)
+
+GO:0003723: RNA binding (molecular\_function)
+
+GO:0005739: mitochondrion (cellular\_component)
+
+GO:0005576: extracellular region (cellular\_component)
+
+GO:0042802: identical protein binding (molecular\_function)
+
+GO:0046872: metal ion binding (molecular\_function)
+
+GO:0005524: ATP binding (molecular\_function)
+
+GO:0070062: extracellular exosome (cellular\_component)
+
+GO:0005886: plasma membrane (cellular\_component)
+
+GO:0016020: membrane (cellular\_component)
+
+GO:0005654: nucleoplasm (cellular\_component)
+
+GO:0005634: nucleus (cellular\_component)
+
+GO:0005737: cytoplasm (cellular\_component)
+
+GO:0005829: cytosol (cellular\_component)

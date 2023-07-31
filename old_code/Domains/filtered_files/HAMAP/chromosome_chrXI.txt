@@ -1,0 +1,18 @@
+Gene	start	end	description	database_name
+YKL216W	25230	26148	Name=Dihydroorotate dehydrogenase [pyrD].	MF
+YKL192C	80171	80393	Name=Acyl carrier protein [acpP].	MF
+YKL170W	130637	131048	Name=50S ribosomal protein L14 [rplN].	MF
+YKL156W	158679	158859	Name=30S ribosomal protein S27e [rps27e].	MF
+YKL152C	163698	164382	Name=2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [gpmA].	MF
+YKL151C	164919	165897	Name=ADP-dependent (S)-NAD(P)H-hydrate dehydratase [nnrD].	MF
+YKL114C	223573	224410	Name=Probable endonuclease 4 [nfo].	MF
+YKL113C	224831	225872	Name=Flap endonuclease 1 [fen].	MF
+YKL095W	262280	263108	Name=Splicing factor YJU2 [YJU2].	MF
+YKL067W	314827	315232	Name=Nucleoside diphosphate kinase [ndk].	MF
+YKL025C	390242	392096	Name=PAN2-PAN3 deadenylation complex subunit PAN3 [PAN3].	MF
+YKL024C	392531	393092	Name=UMP-CMP kinase [CMPK1].	MF
+YKL024C	392537	393089	Name=Adenylate kinase [adk].	MF
+YKL001C	438797	439319	Name=Adenylyl-sulfate kinase [cysC].	MF
+YKR038C	512004	513111	Name=tRNA N6-adenosine threonylcarbamoyltransferase [kae1].	MF
+YKR071C	574936	575968	Name=Fe-S cluster assembly protein <gene_name> [DRE2].	MF
+YKR097W	631230	632796	Name=Phosphoenolpyruvate carboxykinase (ATP) [pckA].	MF

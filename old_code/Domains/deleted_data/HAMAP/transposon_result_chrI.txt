@@ -1,0 +1,5 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+YAL044C	57961	58336	Name=Glycine cleavage system H protein [gcvH].	MF	919	2.451
+YAL015C	127094	127826	Name=Endonuclease III-like protein 1 [NTHL1].	MF	1330	1.817
+YAL010C	134186	135662	Name=Mitochondrial distribution and morphology protein 10 [MDM10].	MF	302	0.205
+YAR015W	169411	170278	Name=Phosphoribosylaminoimidazole-succinocarboxamide synthase [purC].	MF	18	0.021

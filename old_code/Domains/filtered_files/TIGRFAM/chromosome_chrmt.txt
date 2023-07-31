@@ -1,0 +1,3 @@
+Gene	start	end	description	database_name
+Q0085	28526	29252	Name=ATP_synt_6_or_A: ATP synthase F0, A subunit; ATP synthase, F0 complex, subunit A	TIGR01131
+Q0250	73863	74505	Name=CoxB: cytochrome c oxidase, subunit II; Cytochrome c oxidase, subunit II	TIGR02866

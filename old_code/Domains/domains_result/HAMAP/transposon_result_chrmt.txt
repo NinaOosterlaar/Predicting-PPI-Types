@@ -1,0 +1,3 @@
+Gene	start	end	description	database_name	transposons	transposons_normalized
+Q0085	28529	29264	Name=ATP synthase subunit a [atpB].; ATP synthase, F0 complex, subunit A	MF	6	0.008
+Q0130	46738	46942	Name=ATP synthase subunit c [atpH].; ATP synthase, F0 complex, subunit C	MF	187	0.917

@@ -1,0 +1,59 @@
+GO:0018105: peptidyl-serine phosphorylation (biological\_process)
+
+GO:0051300: spindle pole body organization (biological\_process)
+
+GO:0005737: cytoplasm (cellular\_component)
+
+GO:2000105: positive regulation of DNA-dependent DNA replication (biological\_process)
+
+GO:0044271: cellular nitrogen compound biosynthetic process (biological\_process)
+
+GO:0120171: Cdc24p-Far1p-Gbetagamma complex (cellular\_component)
+
+GO:0016787: hydrolase activity (molecular\_function)
+
+GO:0080025: phosphatidylinositol-3,5-bisphosphate binding (molecular\_function)
+
+GO:0031509: telomeric heterochromatin assembly (biological\_process)
+
+GO:0043409: negative regulation of MAPK cascade (biological\_process)
+
+GO:0030466: chromatin silencing at silent mating-type cassette (biological\_process)
+
+GO:0006273: lagging strand elongation (biological\_process)
+
+GO:0061608: nuclear import signal receptor activity (molecular\_function)
+
+GO:0061025: membrane fusion (biological\_process)
+
+GO:1903432: regulation of TORC1 signaling (biological\_process)
+
+GO:0061908: phagophore (cellular\_component)
+
+GO:0033553: rDNA heterochromatin (cellular\_component)
+
+GO:2000060: positive regulation of ubiquitin-dependent protein catabolic process (biological\_process)
+
+GO:0044877: protein-containing complex binding (molecular\_function)
+
+GO:0006269: DNA replication, synthesis of RNA primer (biological\_process)
+
+GO:0080090: regulation of primary metabolic process (biological\_process)
+
+GO:0051726: regulation of cell cycle (biological\_process)
+
+GO:1901673: regulation of mitotic spindle assembly (biological\_process)
+
+GO:0016779: nucleotidyltransferase activity (molecular\_function)
+
+GO:0035556: intracellular signal transduction (biological\_process)
+
+GO:1904262: negative regulation of TORC1 signaling (biological\_process)
+
+GO:0042597: periplasmic space (cellular\_component)
+
+GO:2000766: negative regulation of cytoplasmic translation (biological\_process)
+
+GO:0031261: DNA replication preinitiation complex (cellular\_component)
+
+GO:0006364: rRNA processing (biological\_process)
