@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This github provides algorithms that are able to classify PPIs as either activating, inhibiting, or neutral based on the GO terms of the proteins. Four algorithms use the Transformer algoirthm based on the [TransformerGO](https://github.com/Ieremie/TransformerGO) algorithm. Two algorithms use a Recurrent neural network algorithm created by TensorFlow.
+This github provides algorithms that are able to classify PPIs as either activating, inhibiting, or neutral based on the GO terms of the proteins. Four algorithms use the Transformer algoirthm based on the [TransformerGO](https://github.com/Ieremie/TransformerGO) algorithm. Two algorithms use a Recurrent neural network algorithm created using TensorFlow.
 
 To run the code, a sqlite database needs to be created. The sqlite file used is too large to commit to github. You can contact me for the sqlite file, or create your own. The database and data_retriever folder provide code needed to create your own sqlite database, but does not provide you with all the necessary data, since this would be too large. An image with the overview of the structure of the database can also be found in the database folder.
 
