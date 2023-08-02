@@ -18,4 +18,25 @@ The folder Sent2Vec_Transformer_multiclass contains all the necessary code for c
 
 The folder recurrent_nn contains all the necessary code for classifying PPIs as activating, inhibiting, or neutral or just as activating or inhibiting using the RNN instead of the Transformer neural network. It uses Node2Vec processed GO terms. 
 
+## Pre-requisites
+
+All the algorithms run on Python 3.8>=.
+
+Transformer implementation uses:
+
+- matplotlib 3.4.3
+- joblib 1.2.0
+- numpy 1.20.3
+- scikit-learn 1.2.2
+- torch 2.0.1
+- tqdm 4.65.0
+
+RNN implementation uses:
+
+- matplotlib 3.4.3
+- numpy 1.20.3
+- scikit-learn 1.2.2
+- tensorflow 2.4.1
+
+
 
